@@ -129,6 +129,3 @@ set fileformat=unix
 " ctags setting
 set tags=tags
 set autochdir
-
-" ×Ô¶¯»»ÐÐ
-set wrap
