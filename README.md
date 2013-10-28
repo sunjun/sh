@@ -1,4 +1,4 @@
-sh
+Notes
 ==
 
-This for my linux shell script, configuration etc.
+My notes will be written here.
